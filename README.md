@@ -15,12 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⚡ 其实地上本没有路，走的人多了，也便成了路。
 
-😄 一个到处踩坑的程序员
-
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=LeiQun1998&show_icons=true)">
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeiQun1998&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
